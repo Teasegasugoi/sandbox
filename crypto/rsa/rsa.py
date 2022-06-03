@@ -3,7 +3,7 @@ from Crypto.Util.number import *
 e = 65537
 
 
-""" 
+"""
     公開鍵と秘密鍵作成
     公開鍵 [e, n]
     秘密鍵 [d, n]
